@@ -4,7 +4,7 @@ This repo is to demonstrate how the image segmentation is done using K-means as 
 of the algorithm from scratch.
 
 **Original Image**
-![](test.jpg)
+![](test_img.jpg)
 
 **Segmentation with K = 4**
 ![](K_4.png)
